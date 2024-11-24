@@ -3,7 +3,7 @@ import TodoItem from "./TodoItem"
 
 //ADD API BASE
 
-const API_BASE ="http://localhost:5000/todo"
+const API_BASE ="https://iht.onrender.com/todo"
 
 
 function App() {

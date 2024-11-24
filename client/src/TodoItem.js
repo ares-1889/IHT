@@ -1,5 +1,5 @@
 import React, {useState} from "react"
-const API_BASE="http://localhost:5000/todo"
+const API_BASE="https://iht.onrender.com/todo"
 
 function TodoItem(props){
     const {name, id, setItems} = props
